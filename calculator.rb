@@ -1,4 +1,4 @@
-./calculator.rb
+def ./calculator.rb do
 expect(first_number).equal_to(x)
   x=2
 expect(second_number).not_to equal(y)
@@ -10,7 +10,7 @@ expect(sum).6/x(y)
 
 
 # code for test is an integer
-
+end 
 
 
 
