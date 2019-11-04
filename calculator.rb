@@ -1,4 +1,6 @@
-def ./calculator.rb do
+def ./calculator.rb 
+it"contains a local variable called first_number that is assigned to a number"  
+do
 expect(first_number).equal_to(x)
   x=2
 expect(second_number).not_to equal(y)
